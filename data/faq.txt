@@ -1,0 +1,74 @@
+Q: What are clinic timings?
+A: Clinic is open from 9 AM to 6 PM.
+
+Q: What is the emergency number?
+A: Emergency contact number is 108.
+
+Q: Where is the clinic located?
+A: The clinic is located in Chennai.
+
+Q: Do you provide emergency services?
+A: Yes, emergency services are available 24/7.
+
+Q: Is online appointment available?
+A: Yes, online appointment booking is available.
+
+Q: What are the consultation charges?
+A: Consultation charges start from Rs. 300.
+
+Q: Are specialist doctors available?
+A: Yes, specialist doctors are available for cardiology, dermatology, and pediatrics.
+
+Q: Is ambulance service available?
+A: Yes, ambulance service is available.
+
+Q: What documents should patients bring?
+A: Patients should bring ID proof and previous medical records.
+
+Q: Are laboratory tests available?
+A: Yes, blood tests and diagnostic services are available.
+
+Q: Is health insurance accepted?
+A: Yes, selected health insurance plans are accepted.
+
+Q: How can I book an appointment?
+A: Appointments can be booked through phone or online portal.
+
+Q: Is vaccination available?
+A: Yes, vaccination services are available for children and adults.
+
+Q: Are COVID tests available?
+A: Yes, RT-PCR and rapid COVID tests are available.
+
+Q: Is parking facility available?
+A: Yes, parking facility is available for patients.
+
+Q: Are pharmacy services available?
+A: Yes, the clinic has an in-house pharmacy.
+
+Q: What payment methods are accepted?
+A: Cash, UPI, debit card, and credit card are accepted.
+
+Q: Is pediatric care available?
+A: Yes, pediatric specialists are available.
+
+Q: Are dental services available?
+A: Yes, dental consultation and treatment are available.
+
+Q: What are the working days?
+A: Clinic works from Monday to Saturday.
+
+Q: Is physiotherapy available?
+A: Yes, physiotherapy services are available.
+
+Q: Are female doctors available?
+A: Yes, female doctors are available in multiple departments.
+
+Q: Is prior appointment necessary?
+A: Walk-ins are allowed, but appointments are recommended.
+
+Q: How long does consultation take?
+A: Average consultation time is 15 to 20 minutes.
+
+Q: Is teleconsultation available?
+A: Yes, teleconsultation services are available.

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Clinic Hours, Location & Visiting Information",
+    "content": "MetroLife Health Clinic is located at 42 Health Avenue, Chennai, India. The outpatient department (OPD) is open Monday through Saturday from 8:00 AM to 8:00 PM, and on Sundays from 9:00 AM to 1:00 PM for urgent consultations. The Emergency and Trauma Care unit is open 24 hours a day, 7 days a week, 365 days a year. Dedicated patient parking is available on premises, including wheelchair-accessible ramps and elevators.",
+    "category": "General Information",
+    "department": "Front Desk & Administration",
+    "tags": ["timings", "hours", "location", "parking", "address", "visiting"],
+    "author": "Front Desk Manager",
+    "status": "published"
+  },
+  {
+    "title": "Emergency Services & 24/7 Ambulance Care",
+    "content": "Our clinic provides 24/7 emergency medical assistance. For immediate emergency response, call 108 or our direct clinic trauma desk at +91 44 2800 1234. Our Advanced Life Support (ALS) ambulances are equipped with mobile defibrillators, oxygen support, and trained paramedics. Casualty medical officers and emergency nurses are on duty around the clock to handle acute medical trauma, respiratory distress, and cardiac events.",
+    "category": "Emergency Care",
+    "department": "Emergency & Trauma Care",
+    "tags": ["emergency", "ambulance", "108", "trauma", "24-7", "casualty"],
+    "author": "Dr. Ramesh Kumar, Head of Emergency",
+    "status": "published"
+  },
+  {
+    "title": "Cardiology Department Services & Cardiac Diagnostics",
+    "content": "The Cardiology Department offers diagnostic and preventive heart care led by senior consultant cardiologists. Services include 12-lead Electrocardiograms (ECG), 2D Echocardiography, Treadmill Stress Testing (TMT), and 24-hour Holter monitoring. Outpatient consultations run Monday to Friday from 10:00 AM to 4:00 PM. Consultation fees for senior cardiologists start at Rs. 600. Patients should bring any previous ECG or angiogram records.",
+    "category": "Specialist Care",
+    "department": "Cardiology",
+    "tags": ["cardiology", "heart", "ecg", "echo", "cardiologist", "blood pressure"],
+    "author": "Dr. Sundararajan, Senior Cardiologist",
+    "status": "published"
+  },
+  {
+    "title": "Pediatrics & Child Wellness Clinic",
+    "content": "Our Pediatrics Department delivers compassionate healthcare for infants, children, and adolescents. Services include routine wellness checkups, developmental milestone tracking, adolescent medicine, and pediatric nutritional counseling. Pediatric consultations are conducted Monday to Saturday from 9:00 AM to 5:00 PM. Both male and female pediatric specialists are available. Consultation fee is Rs. 400.",
+    "category": "Specialist Care",
+    "department": "Pediatrics",
+    "tags": ["pediatrics", "child", "infant", "pediatrician", "wellness"],
+    "author": "Dr. Priya Nair, Pediatric Specialist",
+    "status": "published"
+  },
+  {
+    "title": "Comprehensive Child & Adult Immunization Schedule",
+    "content": "The Immunization Center stocks all WHO and Indian Academy of Pediatrics (IAP) approved vaccines. Available vaccines include BCG, Polio (OPV/IPV), DTaP, Hepatitis B, MMR, Pneumococcal, Rotavirus, Typhoid, HPV (cervical cancer prevention), and seasonal Influenza shots. COVID-19 booster vaccinations are also administered. The vaccination room is open Monday to Saturday, 9:00 AM to 4:00 PM. Prior booking ensures cold-chain vaccine availability.",
+    "category": "Preventive Medicine",
+    "department": "Immunization & Pediatrics",
+    "tags": ["vaccination", "immunization", "vaccine", "flu shot", "covid vaccine", "child immunization"],
+    "author": "Immunization Coordinator",
+    "status": "published"
+  },
+  {
+    "title": "Dermatology & Skin Care Services",
+    "content": "Our Dermatology clinic treats common and chronic skin, hair, and nail disorders, including acne, eczema, psoriasis, fungal infections, alopecia, and allergies. Minor procedures such as skin tag removal, chemical peels, and cryotherapy are performed in our outpatient procedure suite. Consultations are available Tuesdays, Thursdays, and Saturdays from 11:00 AM to 6:00 PM. Consultation fees start at Rs. 500.",
+    "category": "Specialist Care",
+    "department": "Dermatology",
+    "tags": ["dermatology", "skin", "hair", "acne", "allergy", "dermatologist"],
+    "author": "Dr. Kavitha Menon, Dermatologist",
+    "status": "published"
+  },
+  {
+    "title": "Dental Consultation & Oral Health Services",
+    "content": "The Dental Clinic provides comprehensive oral care for the whole family. Services include digital dental X-rays, ultrasonic scaling and polishing, composite tooth-colored fillings, root canal therapy (RCT), crown and bridge placement, and orthodontic alignment evaluations. Consultation hours are Monday through Saturday, 10:00 AM to 7:00 PM. Routine dental examination is Rs. 350.",
+    "category": "Specialist Care",
+    "department": "Dental Clinic",
+    "tags": ["dental", "teeth", "dentist", "cleaning", "rct", "toothache"],
+    "author": "Dr. Arun Varma, Dental Surgeon",
+    "status": "published"
+  },
+  {
+    "title": "Diagnostic Laboratory & Radiology Services",
+    "content": "Our NABL-accredited diagnostic laboratory offers round-the-clock testing with fast digital report turnaround. Services include Complete Blood Count (CBC), Lipid Profile, Liver and Renal Function Tests, HbA1c, Thyroid panels, and Rapid Antigen/RT-PCR COVID testing. Radiology facilities include digital X-ray, high-resolution ultrasound, and Doppler scans. Fasting blood sample collection starts daily at 7:30 AM. Home sample collection is available upon request.",
+    "category": "Diagnostics",
+    "department": "Laboratory & Radiology",
+    "tags": ["lab", "blood test", "diagnostic", "x-ray", "ultrasound", "covid test", "reports"],
+    "author": "Chief Laboratory Officer",
+    "status": "published"
+  },
+  {
+    "title": "Consultation Charges, Billing & Payment Modes",
+    "content": "General physician consultation is Rs. 300, while specialist consultations range between Rs. 400 and Rs. 700. Follow-up visits within 7 days for the same ailment are offered at a 50% discount. We accept Cash, all major Credit/Debit Cards, UPI (Google Pay, PhonePe, Paytm), and Net Banking. Itemized invoices are issued for all services for insurance reimbursement.",
+    "category": "Billing",
+    "department": "Billing & Accounts",
+    "tags": ["charges", "fee", "cost", "billing", "payment", "upi", "credit card", "discount"],
+    "author": "Accounts Department",
+    "status": "published"
+  },
+  {
+    "title": "Health Insurance & Cashless Hospitalization Network",
+    "content": "MetroLife Clinic partners with major health insurance companies and Third-Party Administrators (TPAs) including Star Health, ICICI Lombard, HDFC ERGO, Max Bupa/Niva Bupa, and Medi Assist. Cashless claim processing is supported for day-care procedures and diagnostic packages exceeding Rs. 5,000. Patients should present their original insurance e-card and government ID at the TPA desk on the ground floor.",
+    "category": "Billing",
+    "department": "TPA & Insurance Desk",
+    "tags": ["insurance", "cashless", "tpa", "mediclaim", "star health", "reimbursement"],
+    "author": "TPA Insurance Coordinator",
+    "status": "published"
+  },
+  {
+    "title": "Appointment Booking: Online, Walk-Ins & Teleconsultation",
+    "content": "Appointments can be booked in advance via our website portal, by WhatsApp at +91 98400 12345, or by calling +91 44 2800 1234. While walk-in patients are warmly accommodated, scheduled appointments minimize waiting time to under 15 minutes. High-definition video teleconsultations are available for follow-up reviews and non-emergency consultations through our secure telemedicine platform.",
+    "category": "Appointments & Timings",
+    "department": "Appointments & Front Desk",
+    "tags": ["appointment", "booking", "online booking", "teleconsultation", "video call", "walk-in"],
+    "author": "Patient Relations Desk",
+    "status": "published"
+  },
+  {
+    "title": "In-House Pharmacy & Home Delivery of Medicines",
+    "content": "Our on-site pharmacy stocks a complete range of genuine prescription medicines, OTC remedies, pediatric syrups, surgical disposables, and diabetic supplies. Open daily from 8:00 AM to 10:00 PM. We also offer free home delivery of medicines for senior citizens within a 5 km radius for orders above Rs. 500. Valid doctor prescriptions are required for scheduled drugs.",
+    "category": "Pharmacy Services",
+    "department": "Pharmacy",
+    "tags": ["pharmacy", "medicine", "prescription", "home delivery", "drugs"],
+    "author": "Chief Pharmacist",
+    "status": "published"
+  },
+  {
+    "title": "Physiotherapy & Sports Rehabilitation Services",
+    "content": "The Physiotherapy and Rehabilitation unit assists patients recovering from orthopedic surgeries, sports injuries, neurological conditions, back pain, and stroke. Facilities include electrotherapy (IFT, TENS, Ultrasound therapy), cervical and lumbar traction, manual therapy, and therapeutic exercise gyms. Working hours are Monday to Saturday, 8:30 AM to 6:30 PM.",
+    "category": "Specialist Care",
+    "department": "Physiotherapy",
+    "tags": ["physiotherapy", "rehabilitation", "back pain", "joint pain", "stroke recovery"],
+    "author": "Head Physiotherapist",
+    "status": "published"
+  },
+  {
+    "title": "Patient Rights, Medical Records & Privacy Policy",
+    "content": "Patients have the right to full confidentiality of their health records, transparent pricing, and informed consent prior to any clinical procedure. Copies of diagnostic reports, discharge summaries, and medical certificates can be requested from the Medical Records Department (MRD) or downloaded through the patient portal with OTP verification.",
+    "category": "General Information",
+    "department": "Medical Records & Compliance",
+    "tags": ["patient rights", "medical records", "privacy", "reports download", "confidentiality"],
+    "author": "Compliance Officer",
+    "status": "published"
+  }
+]
